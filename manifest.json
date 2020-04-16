@@ -1,0 +1,13 @@
+{
+  "name": "Hist0ry",
+  "version": "1.0.0",
+  "description": "Shows the last request to pr0gramm.com from the history to continue where you left off.",
+  "permissions": [
+    "history"
+  ],
+  "browser_action": {
+    "default_popup": "hist0ry.html",
+    "default_icon": "hist0ry.png"
+  },
+  "manifest_version": 2
+}
